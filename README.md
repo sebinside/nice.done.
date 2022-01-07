@@ -48,3 +48,17 @@ Neu Durchdacht.
 Nudes. Deleted.
 
 Nicht. Dicht.
+
+Nicht. Du.
+
+Nein. Danke.
+
+Not. Drunk.
+
+Nicht. Durchsichtig.
+
+N. D.
+
+Nächtliches Dasein.
+
+Nebenher Denken.
