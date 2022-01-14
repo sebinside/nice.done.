@@ -19,6 +19,8 @@ Nur Doktorand.
 
 Neu Definiert.
 
+Not. Drunk.
+
 Nicer Dicer.
 
 No Dislike.
@@ -53,8 +55,6 @@ Nicht. Du.
 
 Nein. Danke.
 
-Not. Drunk.
-
 Nicht. Durchsichtig.
 
 N. D.
@@ -63,10 +63,12 @@ Nächtliches Dasein.
 
 Nebenher Denken.
 
+Nie Da.
+
+Nicht Durchfallen.
+
 No Date.
 
 Notre Dame.
 
 Not Documented.
-
-Neues Deutschland.
