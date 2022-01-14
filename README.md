@@ -25,6 +25,8 @@ Nicer Dicer.
 
 No Dislike.
 
+Not daily.
+
 Noch Da?
 
 Nörgel Doch.
