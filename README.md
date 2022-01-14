@@ -21,9 +21,15 @@ Neu Definiert.
 
 Not. Drunk.
 
+Nahezu Deterministisch.
+
+Nah. Dran.
+
 Nicer Dicer.
 
 No Dislike.
+
+Nicht. Dauerhaft.
 
 Not daily.
 
@@ -54,6 +60,8 @@ Nudes. Deleted.
 Nicht. Dicht.
 
 Nicht. Du.
+
+Nach. Dir.
 
 Nein. Danke.
 
