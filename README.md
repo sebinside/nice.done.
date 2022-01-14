@@ -19,6 +19,8 @@ Nur Doktorand.
 
 Neu Definiert.
 
+Not. Drunk.
+
 Nicer Dicer.
 
 No Dislike.
@@ -53,8 +55,6 @@ Nicht. Du.
 
 Nein. Danke.
 
-Not. Drunk.
-
 Nicht. Durchsichtig.
 
 N. D.
@@ -65,14 +65,10 @@ Nebenher Denken.
 
 Nie Da.
 
-Nicht Da.
-
-Nerv nicht.
-
-Nicht Dasein.
-
-Nicht Danken.
-
 Nicht Durchfallen.
 
-Nicht darunterschreiben.
+No Date.
+
+Notre Dame.
+
+Not Documented.
