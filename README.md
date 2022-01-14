@@ -62,3 +62,17 @@ N. D.
 Nächtliches Dasein.
 
 Nebenher Denken.
+
+Nie Da.
+
+Nicht Da.
+
+Nerv nicht.
+
+Nicht Dasein.
+
+Nicht Danken.
+
+Nicht Durchfallen.
+
+Nicht darunterschreiben.
